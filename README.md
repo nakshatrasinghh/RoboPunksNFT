@@ -1,5 +1,8 @@
 # RoboPunksNFT Minting dApp 
 
+![DEMO](https://github.com/nakshatrasinghh/RoboPunksNFT/blob/main/src/assets/readme/demo.png)
+![DEMO](https://github.com/nakshatrasinghh/RoboPunksNFT/blob/main/src/assets/readme/demo2.png)
+
 This project demonstrates a RoboPunksNFT Minting dApp build using Solidity, Openzeppelin, Hardhat, Ethers, ReactJS & ChakraUI.
 
 There is an .env file which contains the Rinkeby RPC URL (From Infura), Etherscan API key & Metamask Private Key (Owner/Deployer) which is used in the hardhat config file. It helps us to deploy and verify the smart contract using our local CLI.
